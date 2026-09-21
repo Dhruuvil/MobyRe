@@ -1,6 +1,6 @@
 plugins {
-    id("com.android.library")
-    `maven-publish`
+    id("com.android.library") version "8.2.0"
+    id("maven-publish")
 }
 
 afterEvaluate {
