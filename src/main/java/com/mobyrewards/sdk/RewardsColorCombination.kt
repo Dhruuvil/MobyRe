@@ -8,7 +8,7 @@ data class RewardsColorCombination(
     // =========================
     // MAIN COLORS
     // =========================
-    cd "D:\MyApplication\MobyRewards"
+
     val backgroundColor: Int = Color.parseColor("#F7F8FC"),
     val primaryColor: Int = Color.parseColor("#FF6B35"),
     val secondaryColor: Int = Color.parseColor("#4D67E8"),
